@@ -1,1 +1,2 @@
-Identifying the health of fetal using Cardiotocography (CTG)
+Ccreate a multiclass model to classify CTG features into the three fetal health states (i.e. Normal,
+Suspect, and Pathological) 
